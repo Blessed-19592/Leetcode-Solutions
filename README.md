@@ -31,9 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
