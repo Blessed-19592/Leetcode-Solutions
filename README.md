@@ -2,38 +2,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Blessed-19592/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
